@@ -1,0 +1,42 @@
+body{
+    background-color: #c8b6ff;
+}
+.table1{
+    width: 90%;
+}
+.home_page{
+    font-style: italic;
+     text-decoration: none; 
+}
+.about_me{
+    font-style: italic;
+    text-decoration: none;
+    margin-left: 20px;
+    margin: 14px;
+}
+.contact_me{
+    font-style: italic;
+    text-decoration: none;
+    margin-left: 20px
+}
+.td1{
+    font-style: italic;
+     padding-left: 20vh;
+     padding-top: 10px; 
+     object-fit: cover;
+}
+h1{
+    color:#003049 ; 
+    font-style: oblique;
+    padding-left: 20vh;
+
+}
+p{
+    font-size: 10px;
+     color:black;
+
+}
+.input{
+    font-weight: bold;
+    margin-top: 40px;
+}
